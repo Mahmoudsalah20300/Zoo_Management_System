@@ -22,7 +22,4 @@ It simulates managing a zoo on a grid-based map where users can build enclosures
 - Polymorphism (virtual functions)  
 - Encapsulation (private/protected members)  
 - Constructors and destructors  
-- STL (`std::vector`, `std::string`, file streams)  
-### Compile
-```bash
-g++ -std=c++17 *.cpp -o a1
+- STL (`std::vector`, `std::string`, file streams) 
